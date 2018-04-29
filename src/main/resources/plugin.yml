@@ -1,0 +1,12 @@
+name: HoloTest
+author: Rodepanda
+website: https://rodepanda.net/
+version: 1
+main: net.rodepanda.holoexample.Main
+description: A holo example plugin
+depend: [PandaHoloLib, ProtocolLib]
+
+commands:
+  holoexample:
+    description: A test command
+    usage: /holoexample
